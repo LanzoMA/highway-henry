@@ -1,0 +1,3 @@
+D:/repos/highway-henry/out/build/x86-release/CMakeFiles/highway-henry.dir
+D:/repos/highway-henry/out/build/x86-release/CMakeFiles/edit_cache.dir
+D:/repos/highway-henry/out/build/x86-release/CMakeFiles/rebuild_cache.dir
