@@ -1,8 +1,8 @@
-# Install script for directory: D:/repos/highway-henry
+# Install script for directory: D:/dev/repos/highway-henry
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "D:/repos/highway-henry/out/install/x86-release")
+  set(CMAKE_INSTALL_PREFIX "D:/dev/repos/highway-henry/out/install/x86-release")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/repos/highway-henry/out/build/x86-release/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/dev/repos/highway-henry/out/build/x86-release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

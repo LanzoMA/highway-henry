@@ -1,3 +1,0 @@
-/home/lanzo/repos/highway-henry/build/CMakeFiles/game.dir
-/home/lanzo/repos/highway-henry/build/CMakeFiles/edit_cache.dir
-/home/lanzo/repos/highway-henry/build/CMakeFiles/rebuild_cache.dir

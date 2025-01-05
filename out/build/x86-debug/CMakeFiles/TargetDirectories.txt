@@ -1,3 +1,0 @@
-C:/dev/projects/highway-henry/out/build/x86-debug/CMakeFiles/highway-henry.dir
-C:/dev/projects/highway-henry/out/build/x86-debug/CMakeFiles/edit_cache.dir
-C:/dev/projects/highway-henry/out/build/x86-debug/CMakeFiles/rebuild_cache.dir

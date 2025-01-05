@@ -1,8 +1,0 @@
-# ninja log v5
-20	662	7232342507786006	CMakeFiles/highway-henry.dir/src/game.cpp.obj	3ed2c1ec4c1e86b1
-31	937	7232342510441039	CMakeFiles/highway-henry.dir/src/music.cpp.obj	ed0cf2b17bab8c26
-15	956	7232342510682701	CMakeFiles/highway-henry.dir/src/text.cpp.obj	8f2858084826ff22
-4	1170	7232342512850240	CMakeFiles/highway-henry.dir/src/main.cpp.obj	bbd657ae8425ac0d
-1170	1321	7232342514223451	highway-henry.exe	95188dece6b56f17
-25	999	7232342511163683	CMakeFiles/highway-henry.dir/src/score.cpp.obj	12ec31f1da3f28eb
-10	1004	7232342511163683	CMakeFiles/highway-henry.dir/src/sprite.cpp.obj	ddfadc0a53439463
